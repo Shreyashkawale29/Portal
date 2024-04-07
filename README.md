@@ -3,9 +3,10 @@
 
 This project is a simple yet robust web application built using Servlet, Tomcat server, and MySQL database, aimed at providing a secure and efficient login and signup functionality.
 
-## Screenshots
 ![Signin_page](https://github.com/Shreyashkawale29/Portal/assets/88204123/bda8a512-9384-40d2-8d56-1667d7069be0)
+
 ![Signup_page](https://github.com/Shreyashkawale29/Portal/assets/88204123/00d1056e-432e-4fa6-9c22-3698d54d79ba)
+
 ![Profile_page](https://github.com/Shreyashkawale29/Portal/assets/88204123/78305f9a-25c5-46c4-bd14-7f90748d3bcd)
 
 ## Features
